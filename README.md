@@ -1,3 +1,3 @@
-# G51PGA-CW
+# PGA-CW
 
 This is my coursework of *Programming and Algorithms* module.
